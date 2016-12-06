@@ -1,0 +1,6 @@
+D:\vet\sharp\jarvis\jarvis\jarvis\bin\Debug\jarvis.exe.config
+D:\vet\sharp\jarvis\jarvis\jarvis\bin\Debug\jarvis.exe
+D:\vet\sharp\jarvis\jarvis\jarvis\bin\Debug\jarvis.pdb
+D:\vet\sharp\jarvis\jarvis\jarvis\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+D:\vet\sharp\jarvis\jarvis\jarvis\obj\Debug\jarvis.exe
+D:\vet\sharp\jarvis\jarvis\jarvis\obj\Debug\jarvis.pdb
